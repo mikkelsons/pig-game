@@ -12,5 +12,5 @@ Roll the die. If you roll an number other than a 'one', that number is added to 
 The game ends when a player reaches 100 points. 
 
 ---
-**Be Careful:**
+### Be Careful:
 If you roll a 'one' you lose your current turn's score and your turn.
